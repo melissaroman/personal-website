@@ -1,1 +1,3 @@
-alert('Hi!!!!');
+import hi from './module';
+
+alert(hi);
